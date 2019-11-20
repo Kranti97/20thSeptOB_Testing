@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestDemoSuite1">
+	<test name="Assertion">
+		<class name="TestDemo_Assertion.TestDemo.Assert">
+		</class>
+	</test>
+</suite>

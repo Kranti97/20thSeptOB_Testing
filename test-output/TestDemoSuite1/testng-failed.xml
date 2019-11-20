@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestDemoSuite1]">
+  <test thread-count="5" name="Assertion(failed)">
+    <classes>
+      <class name="TestDemo_Assertion.TestDemo_Assert">
+        <methods>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- TestDemo_Assertion.TestDemo_Assert -->
+    </classes>
+  </test> <!-- Assertion(failed) -->
+</suite> <!-- Failed suite [TestDemoSuite1] -->
